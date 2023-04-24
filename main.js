@@ -1,4 +1,4 @@
-import '/style.css';
+import '/styling.css';
 /*import javascriptLogo from './javascript.svg';
 import { setupCounter } from './counter.js';*/
 import * as THREE from '/node_modules/three';
