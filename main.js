@@ -1,8 +1,7 @@
 import './style.css';
 /*import javascriptLogo from './javascript.svg';
-import viteLogo from '/vite.svg';
 import { setupCounter } from './counter.js';*/
-import * as THREE from 'three';
+import * as THREE from './node_modules/three';
 //import {}
 
 const scene = new THREE.Scene();
