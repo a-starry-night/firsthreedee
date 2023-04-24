@@ -1,7 +1,7 @@
-import './style.css';
+import '/style.css';
 /*import javascriptLogo from './javascript.svg';
 import { setupCounter } from './counter.js';*/
-import * as THREE from './node_modules/three';
+import * as THREE from '/node_modules/three';
 //import {}
 
 const scene = new THREE.Scene();
